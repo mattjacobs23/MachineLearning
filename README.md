@@ -1,1 +1,1 @@
-# Springboard
+# Introductory Machine Learning projects
