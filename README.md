@@ -1,1 +1,5 @@
-### A few introductory machine learning projects I started with to start getting familiar with this field!
+# A few introductory machine learning projects
+
+The projects include the following concepts:
+
+* 
