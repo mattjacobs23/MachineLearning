@@ -1,4 +1,4 @@
-# My introductory machine learning projects
+# Some machine learning projects which I learned a lot from
 
 The projects involve the following:
 
